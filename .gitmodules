@@ -1,0 +1,24 @@
+[submodule "Web-Dev-For-Beginners"]
+	path = Web-Dev-For-Beginners
+	url = https://github.com/microsoft/Web-Dev-For-Beginners
+[submodule "AI-For-Beginners"]
+	path = AI-For-Beginners
+	url = https://github.com/microsoft/AI-For-Beginners
+[submodule "ML-For-Beginners"]
+	path = ML-For-Beginners
+	url = https://github.com/microsoft/ML-For-Beginners
+[submodule "computer-science"]
+	path = computer-science
+	url = https://github.com/ossu/computer-science
+[submodule "IoT-For-Beginners"]
+	path = IoT-For-Beginners
+	url = https://github.com/microsoft/IoT-For-Beginners
+[submodule "data-science"]
+	path = data-science
+	url = https://github.com/ossu/data-science
+[submodule "math"]
+	path = math
+	url = https://github.com/ossu/math
+[submodule "Data-Science-For-Beginners"]
+	path = Data-Science-For-Beginners
+	url = https://github.com/microsoft/Data-Science-For-Beginners
